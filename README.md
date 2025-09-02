@@ -84,6 +84,12 @@ The certificates are integrated with our global CloudFront CDN, ensuring securit
 
 ---
 
+## **4. Demo**
+
+![AWS ACM and S3 Architecture](demo/architecture.png)
+
+---
+
 MIT License
 
 Copyright (c) 2025 [Cloud Commerical Holdings LLC]
