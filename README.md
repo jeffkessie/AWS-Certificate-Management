@@ -92,7 +92,7 @@ The certificates are integrated with our global CloudFront CDN, ensuring securit
 
 MIT License
 
-Copyright (c) 2025 [Cloud Commerical Holdings LLC]
+Copyright (c) 2025 [Cloud Commercial Holdings LLC]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
