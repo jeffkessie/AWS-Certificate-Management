@@ -1,5 +1,5 @@
 name: AWS-Certificate-Management
-description: aws-infra
+description: Static website hosting with S3 and CloudFront
 runtime:
   name: nodejs
   options:
